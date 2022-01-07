@@ -1,0 +1,28 @@
+body{
+  background-color: #EDC7B7;
+}
+.name{
+ 
+  background-color: #AC3B61 ;
+  border-width: 2px;
+  border-color: red;
+  border-style:solid;
+  margin:0px;
+}
+
+.column{
+  width: 300px;
+  float: left;
+  height:200px;
+}
+
+img{
+ 
+  box-sizing: border-box;
+  border: 1px solid blue;
+  width: 100px;
+  float: left;
+}
+.myBackground{
+  float:left;
+}
