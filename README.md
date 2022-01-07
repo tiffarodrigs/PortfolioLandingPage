@@ -23,7 +23,7 @@ _A portfolio webpage using HTML and CSS, which will later act as the landing pag
 * _Open index.html.in your browser_
 
 ## Web Page Link
-[tiffarodrigs.github.io/PortfolioLandingPage](tiffarodrigs.github.io/PortfolioLandingPage)
+[https://tiffarodrigs.github.io/PortfolioLandingPage/](https://tiffarodrigs.github.io/PortfolioLandingPage/)
 
 ## License
 
