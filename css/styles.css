@@ -11,8 +11,6 @@ body{
   padding: 0 30px;
 }
 .name{
- 
-/* background-color: #AC3B61 ;*/
   margin:0px;
   padding: 30px 0px;
   border-bottom: 1px solid #ebebeb;
@@ -21,9 +19,8 @@ body{
   font-size: 16px;
   color: #6e6868;
   padding-left: 25px;
-
+  font-style: normal;
 }
-
 .column{
   width: 300px;
   float: left;
@@ -35,11 +32,7 @@ body{
   padding: 15px;
   box-shadow: 0 10px 13px -4px rgba(36, 36, 36, 0.2);
 }
-
 img{
- 
-  /*box-sizing: border-box;
-  border: 1px solid blue;*/
   width: 80px;
   height: 80px;
   float: left;
@@ -48,17 +41,14 @@ img{
 .myBackground{
   float:left;
 }
-
 .interest{
   float:left;
   padding: 5px solid red;
- /* border:5px solid blue;*/
   margin: 5px solid green;
 }
 .grid{
   display:inline-grid;
 }
-
 ol{
   list-style: none;
 }
@@ -68,11 +58,6 @@ ol{
   padding:0px;
   margin-bottom: 2px;
 }
-h3
-{
- 
-}
-
 h1{
   margin:0px;
   padding-left: 100px;
@@ -86,4 +71,13 @@ a:hover {
 }
 ul{
   list-style-type: circle;
+}
+span{
+  font-style: italic;
+}
+footer{
+  text-align: right;
+  border-top: 1px solid #ebebeb;
+  font-size: 8px;
+  padding: 10px 0px;
 }
